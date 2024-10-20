@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-upload/static/css/main.d051bf6e.css",
+    "main.js": "/portfolio-upload/static/js/main.56e45253.js",
+    "static/media/IMG-rohit3.jpg": "/portfolio-upload/static/media/IMG-rohit3.7b75f51c0c061fa5e31b.jpg",
+    "static/media/CV_Template_2024.pdf": "/portfolio-upload/static/media/CV_Template_2024.c953137c78a1d2073628.pdf",
+    "static/media/work2.jpg": "/portfolio-upload/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/portfolio-upload/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work1.jpg": "/portfolio-upload/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/portfolio-upload/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/portfolio-upload/index.html",
+    "main.d051bf6e.css.map": "/portfolio-upload/static/css/main.d051bf6e.css.map",
+    "main.56e45253.js.map": "/portfolio-upload/static/js/main.56e45253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d051bf6e.css",
+    "static/js/main.56e45253.js"
+  ]
+}
